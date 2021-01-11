@@ -6,5 +6,5 @@
 - 💬 Ask me about React
 - 📫 How to reach me: koc.selenga@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I 💕 🐱 🐶s & 💕 📸
+- ⚡ Fun fact: I 💕 🐱 🐶s & 💕 📸 
 
