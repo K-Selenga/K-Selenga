@@ -3,7 +3,7 @@ Welcome to my Github page 👋
 
 • 🔭 I’m currently working on my capstone project Tipsy
 
-• 🌱 I’m currently learning Python and Java
+• 🌱 I’m currently learning Python 
 
 • 💬 Ask me about React and CSS, I am happy to help!
 
