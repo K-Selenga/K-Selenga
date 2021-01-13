@@ -1,7 +1,6 @@
 ### Hi, I'm Selenga <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Welcome to my Github page! <br>
-![visitors] (https://visitor-badge.glitch.me/badge?page_id=k-selenga.k-selenga)
+Welcome to my Github page! <br>(![visitors](https://visitor-badge.glitch.me/badge?page_id=k-selenga.k-selenga))
 
 I am a Full-Stack Web Developer 👩‍💻
 
@@ -11,7 +10,7 @@ I am a Full-Stack Web Developer 👩‍💻
 
 • 💬 Ask me about React and CSS, I am happy to help!
 
-• :computer: Most used line of code `git push origin master`
+• :computer: Most used line of code `git push origin main`
 
 • 😄 Pronouns: she/her
 
