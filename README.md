@@ -6,7 +6,6 @@ Welcome to my Github page! <br>
 I am a Full-Stack Web Developer 👩‍💻
 
 ### :mailbox_with_mail: Get in touch
-<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Selenga%20KOC-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selengakoc/) [![Mail Badge](https://img.shields.io/badge/-@selengakoc-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/selengakoc)
 [![Mail Badge](https://img.shields.io/badge/-Selenga%20KOC-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:koc.selenga@gmail.com)
