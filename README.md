@@ -1,11 +1,11 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=k-selenga.k-selenga)
 
-### Hi, I'm Selenga <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi, I'm Selenga <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 Welcome to my Github page! <br>
 
 I am a Full-Stack Web Developer 👩‍💻
 
-:mailbox_with_mail: Reach me out!
+###:mailbox_with_mail: Get in touch
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Selenga%20KOC-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selengakoc/) [![Mail Badge](https://img.shields.io/badge/-@selengakoc-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/selengakoc)
