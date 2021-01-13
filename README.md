@@ -24,15 +24,14 @@ I am a Full-Stack Web Developer 👩‍💻
 • ⚡ Fun fact: I 💕 animals & travel and photography
 
 ### <details> <summary> A little bit more about me </summary>
-  
-  
-:envelope:koc.selenga@gmail.com <br>
-:page_facing_up: [My Resume/CV](https://github.com/K-Selenga/K-Selenga/blob/main/resume/Resume-SelengaKOC.pdf)
+  <br>
+  :envelope:koc.selenga@gmail.com <br>
+  :page_facing_up: [My Resume/CV](https://github.com/K-Selenga/K-Selenga/blob/main/resume/Resume-SelengaKOC.pdf)
 
 
 
-[![Selenga's github stats](https://github-readme-stats.vercel.app/api?username=k-selenga&hide=contribs,prs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-selenga&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Selenga's github stats](https://github-readme-stats.vercel.app/api?username=k-selenga&hide=contribs,prs&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-selenga&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
