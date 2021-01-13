@@ -23,7 +23,8 @@ I am a Full-Stack Web Developer 👩‍💻
 
 • ⚡ Fun fact: I 💕 animals & travel and photography
 
-### <details> <summary> A little bit more about me </summary>
+### <details> 
+  <summary> A little bit more about me </summary>
   <br>
   :envelope:koc.selenga@gmail.com <br>
   :page_facing_up: [My Resume/CV](https://github.com/K-Selenga/K-Selenga/blob/main/resume/Resume-SelengaKOC.pdf)
