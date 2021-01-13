@@ -23,7 +23,7 @@ I am a Full-Stack Web Developer 👩‍💻
 
 • ⚡ Fun fact: I 💕 animals & travel and photography
 
-<details> :arrow_down_small: <summary> A little bit more about me </summary>
+### <details> <summary> A little bit more about me </summary>
   
   
 :envelope:koc.selenga@gmail.com <br>
