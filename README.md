@@ -11,7 +11,7 @@ I am a Full-Stack Web Developer 👩‍💻
 [![Mail Badge](https://img.shields.io/badge/-Selenga%20KOC-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:koc.selenga@gmail.com)
 
 
-• 🔭 I’m currently working on my capstone project Tipsy :cocktail:
+• 🔭 I’m currently working on my E-Store project $aveOnAll 
 
 • 🌱 I’m currently learning Python
 
