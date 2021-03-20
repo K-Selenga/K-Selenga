@@ -13,7 +13,7 @@ I am a Full-Stack Web Developer 👩‍💻
 
 • 🔭 I’m currently working on my E-Store project $aveOnAll 
 
-• 🌱 I’m currently learning Python
+• 🌱 I’m currently learning NodeJS
 
 • 💬 Ask me about React and CSS, I am happy to help!
 
