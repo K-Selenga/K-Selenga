@@ -17,7 +17,7 @@ I am a Full-Stack Web Developer 👩‍💻
 
 • 💬 Ask me about React and CSS, I am happy to help!
 
-• :computer: Most used line of code `git push origin main`
+• :computer: Most used line of code `const random = require('random');`
 
 • 😄 Pronouns: she/her
 
