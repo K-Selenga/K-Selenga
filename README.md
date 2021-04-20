@@ -13,8 +13,7 @@ I am a Full-Stack Web Developer 👩‍💻
 
 • 🔭 I’m currently working on my E-Store project $aveOnAll 
 
-• 🌱 I’m currently learning NodeJS
-
+• 🌱 I’m currently practising MERN
 • 💬 Ask me about React and CSS, I am happy to help!
 
 • :computer: Most used line of code `const random = require('random');`
