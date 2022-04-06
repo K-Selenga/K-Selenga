@@ -15,8 +15,8 @@ I am a Full-Stack Web Developer 👩‍💻
 
 
 
-• 🌱 I’m currently practising MERN
-• 💬 Ask me about React and CSS, I am happy to help!
+• 🌱 I’m currently practising Django
+• 💬 Ask me about React and Node.Js , I am happy to help!
 
 • :computer: Most used line of code `const random = require('random');`
 
