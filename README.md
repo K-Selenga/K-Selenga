@@ -9,8 +9,8 @@ I am a QA Automation Engineer 👩‍💻
 
 ### :mailbox_with_mail: Get in touch
 
-[![Linkedin Badge](https://img.shields.io/badge/-Selenga%20KOC-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selenga/) [![Mail Badge](https://img.shields.io/badge/-@selengakoc-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/selengakoc)
-[![Mail Badge](https://img.shields.io/badge/-Selenga%20KOC-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kcselenga@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Selenga%20KOC-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ksally/) [![Mail Badge](https://img.shields.io/badge/-@selengakoc-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/selengakoc)
+[![Mail Badge](https://img.shields.io/badge/-Selenga%20KOC-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:koc.sally@gmail.com)
 
 
 
