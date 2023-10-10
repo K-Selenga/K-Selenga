@@ -5,7 +5,7 @@
 ## Hi, I'm Selenga <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 Welcome to my Github page! <br>
 
-I am a Full-Stack Web Developer 👩‍💻
+I am a QA Automation Engineer 👩‍💻
 
 ### :mailbox_with_mail: Get in touch
 
@@ -15,16 +15,16 @@ I am a Full-Stack Web Developer 👩‍💻
 
 
 
-• 💬 Ask me about MERN Stack , I am happy to help!
+• 💬 Ask me about MERN Stack, Selenium, Java, Cucumber, TestNG I am happy to help!
 
-• :computer: Most used line of code `const random = require('random');`
+• :computer: Most used line of code `WebDriver driver = new ChromeDriver ();`
 
 • 😄 Pronouns: she/her
 
 • ⚡ Fun fact: I 💕 animals & hiking
 
 
-:envelope:kcselenga@gmail.com <br>
+:envelope:koc.sally@gmail.com <br>
 
 
 
